@@ -9,7 +9,7 @@ from pathlib import Path
 
 ALLOWED_FOLDER = "contributions"
 ALLOWED_SUFFIXES = ['.md', '.txt']
-ADMIN_USERS = ["lsetiawan"]
+ADMIN_USERS = ["lsetiawan", "jomey"]
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
