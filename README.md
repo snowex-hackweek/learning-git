@@ -5,7 +5,8 @@
 
 ---
 
-Repository for learning git and GitHub collaboratively.
+Repository for learning git and GitHub collaboratively adapted for SnowEx from the
+[UW Hackweek template](https://github.com/uwhackweek/learning-git).
 
 There are many ways to contribute to a project and two of those are higlighted below.
 We encourage participants to practice either one during an event and many open source
