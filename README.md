@@ -275,7 +275,7 @@ In a nutshell, here the steps:
    git commit -m "My new files"
    ```
 
-1. Push the changes to your forked repository
+1. Push the changes to the GitHub repository
 
    ```shell
    git push origin feature_xyz
